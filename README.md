@@ -1,1 +1,1 @@
-# competative-programming-lab_1261
+# competitive-programming-lab_1261
